@@ -19,7 +19,8 @@ word_definitions["bifurcation"] = "the division of something into two branches o
 Use square bracket lookup to get the definition of two
 words and output them to the console with `print()`
 """
-
+print(word_definitions["damsel"])
+print(word_definitions["svelte"])
 
 """
 Loop over the dictionary to get the following output:
